@@ -5,8 +5,8 @@ import './arch/base.styl';
 
 import './arch/router';
 
-var hello=require('./commonjs.js');
+// var hello=require('./commonjs.js');
 
 // import go from './commonjs'
 
-hello(1000);
+// hello(1000);

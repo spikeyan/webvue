@@ -5,7 +5,7 @@ var path = require('path');
 var webpack = require('webpack');
 var ExtractTextPlugin = require('extract-text-webpack-plugin');
 var UglifyJSPlugin = require('uglifyjs-webpack-plugin');
-
+console.log(path.resolve(__dirname, 'www'))
 module.exports = {
     entry: {
         final:'./dev/index.js',

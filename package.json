@@ -20,6 +20,7 @@
     "html-loader": "^0.4.5",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
+    "uglify-js": "^2.8.27",
     "uglifyjs-webpack-plugin": "^0.4.3",
     "webpack": "^2.5.1"
   },
