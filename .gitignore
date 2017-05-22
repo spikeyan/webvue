@@ -48,3 +48,4 @@ Temporary Items
 
 # ingore nodemodules folder
 /node_modules
+/.idea
